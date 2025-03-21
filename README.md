@@ -53,8 +53,8 @@ Found a bug? Wanna add your own Tkinter masterpiece?
 
 ## 📬 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-UrvilPatel7271-blue?style=for-the-badge&logo=github)](https://github.com/UrvilPatel7271)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/urvil-patel-70014b299/)  
+[![GitHub](https://img.shields.io/badge/GitHub-UrvilPatel7271-blue?style=for-the-badge&logo=github)](https://github.com/uvpatel)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/urvil-patel-6995a0320)  
 [![Gmail](https://img.shields.io/badge/Gmail-uvpatel7271@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:uvpatel7271@gmail.com)
 
 ---
